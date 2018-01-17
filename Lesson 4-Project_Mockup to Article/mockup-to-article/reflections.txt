@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1. I've learned new skills pertaining to the structure of an HTML document, HTML syntax, different types of elements and tags, as well as how to structure a webpage from a mockup. 
+2. Skills that I've found easy include matching the structure of my HTML from a mockup--it's fun to try to make my webpage match the patterns in a mockup.
+3. Parts that I've found difficult include learning to utilizing tags that I've not yet encountered in the course. When I review the work of my peers, I see that they use these different tags (e.g. <time datetime=...>, and while my code does display correctly without these tags, I think incorporating these new tags will streamline my code and make it more robust.
+4. I'm learning to test my code frequently to see how small changes affect the document ouput. I've also become better at researching elements and tags on my own to improve my code.
