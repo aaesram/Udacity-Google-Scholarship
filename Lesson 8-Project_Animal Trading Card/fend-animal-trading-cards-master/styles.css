@@ -1,0 +1,57 @@
+/* add your CSS here */
+
+.card {
+  font-family: "Helvetica";
+  border: 10px solid #f4c842;
+  border-radius: 7px;
+  padding: 10px 20px;
+  width: 325px;
+  background-image:
+    url(https://orig00.deviantart.net/3615/f/2011/162/5/d/pokemon_tcg_water_texture_rip_by_ilkcmp-d3inhf4.png);
+}
+
+.animal-name{
+  border: 1px solid #f4c842;
+  padding: 5px;
+}
+
+#type-icon{
+  width: 20px;
+  padding-left: 120px;
+}
+
+.animal-image {
+  width: 300px;
+  border: 5px solid #f4c842;
+  margin-left: 8px;
+}
+
+.animal-info {
+  border: 1px solid #f4c842;
+  padding: 0px 10px;
+  margin: 5px;
+}
+
+.fact {
+  font-style: italic;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1.5px solid black;
+  margin: 1em 0;
+}
+
+#list{
+  list-style-type: none;
+  margin-left: -20px;
+}
+
+.item {
+  font-weight: bold;
+}
+
+.description {
+}
